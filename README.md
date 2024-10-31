@@ -7,7 +7,7 @@ This file will elaborate upon the development of this Project, along with an int
 
 Task Overview
 
-I was assigned the task of scraping GitHub users located in Seattle who have at least 2,000 followers, along with gathering information about their most recent 50 repositories. To achieve this, I utilized the GitHub API, which provides a structured way to access GitHub's vast data.
+I was assigned the task of scraping GitHub users located in Seattle who have at least 200 followers, along with gathering information about their most recent 50 repositories. To achieve this, I utilized the GitHub API, which provides a structured way to access GitHub's vast data.
 
 Detailed Process
 
