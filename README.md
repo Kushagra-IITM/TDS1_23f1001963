@@ -25,8 +25,6 @@ P.S. I know this section was a bit long but it was tough to summarize the entire
 )
 <br><br>
 
-2] Interesting Fact About the Scraped Data
-I found it really interesting that the most followed GitHub user in Seattle has just 12 public repositories while having over 17k followers ! Meanwhile, the users in second and fourth place have 141 and 356 repos, respectively. It seems like having a ton of public repos doesn’t necessarily mean you'll get more followers; it's really about the impact of your work that matters!
+2] Interesting Fact About the Scraped Data: I found it really interesting that the most followed GitHub user in Seattle has just 12 public repositories while having over 17k followers ! Meanwhile, the users in second and fourth place have 141 and 356 repos, respectively. It seems like having a ton of public repos doesn’t necessarily mean you'll get more followers; it's really about the impact of your work that matters!
 <br><br>
-3] Actionable recommendation for developers
-Since I’m new to data science, I don’t have a lot of pro tips to share yet. But one thing I learned from this project that’s worth mentioning is to always be patient during the data preprocessing stage. It can be really time-consuming and frustrating at times, but it’s important to remember that data science isn’t just about machine learning. Preprocessing is a key part of the process. It might get messy, and you’ll likely need to look things up, but that’s just how it goes!
+3] Actionable recommendation for developers: Since I’m new to data science, I don’t have a lot of pro tips to share yet. But one thing I learned from this project that’s worth mentioning is to always be patient during the data preprocessing stage. It can be really time-consuming and frustrating at times, but it’s important to remember that data science isn’t just about machine learning. Preprocessing is a key part of the process. It might get messy, and you’ll likely need to look things up, but that’s just how it goes!
